@@ -15,15 +15,13 @@
 - [Dự án 2]: Mô tả ngắn về dự án, liên kết đến repository.
 
 ## Liên kết Xã hội
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Blog](https://yourblog.com)
+- [Telegram](https://t.me/leowindmeliodas)
 
 ## Thông tin thêm
-- 📫 Liên hệ: [Email của bạn]
-- 😄 Hobbies: [Sở thích của bạn, ví dụ: Đọc sách, Chơi game]
+- 📫 Liên hệ: [@gmail.com]
+- 😄 Hobbies: [Reading books, Playing games, Watching movies, Surfing social networks, Traveling, Going out,...]
 
-### Tôi thường xuyên chia sẻ kiến thức và kinh nghiệm, hãy theo dõi tôi để cập nhật những bài viết mới!
+### I regularly share knowledge and experiences, please follow me to update new articles!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leowindmeliodas&layout=compact&theme=radical)
 
