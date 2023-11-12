@@ -14,7 +14,7 @@
 - [Telegram](https://t.me/leowindmeliodas)
 
 ## More information
-- 📫 Liên hệ: [@gmail.com]
+- 📫 Contact: [@gmail.com]
 - 😄 Hobbies: [Reading books, Playing games, Watching movies, Surfing social networks, Traveling, Going out,...]
 
 ### I regularly share knowledge and experiences, please follow me to update new articles!
