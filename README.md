@@ -1,23 +1,19 @@
 # Hello, I'm [Leo Wind Meliodas]
 
 ## About me!
-- 👋 Hi there. I'm Leo Wind Meliodas
-- 🧡 I like code and fix bug
-- 😚 Yêu thích làm việc trên các dự án thú vị và sáng tạo.
+- 👋 Hi there. I'm Leo Wind Meliodas.
+- 🧡 I like code and fix bug.
+- 😚 Love working on interesting and creative projects.
 
-## Kỹ năng và Ngôn ngữ Lập trình
+## Programming Languages and Skills
 - **Main language:** [C#, Html, CSS, JS, Python]
 - **Development tools:** [Visua Studio, Visual Studio Code, Notepad++, Sublime Text]
 - **Skill:** [Web development, Windows forms app, Python tools]
 
-## Outstanding project
-- [Dự án 1]: Mô tả ngắn về dự án, liên kết đến repository.
-- [Dự án 2]: Mô tả ngắn về dự án, liên kết đến repository.
-
-## Liên kết Xã hội
+## Social Links
 - [Telegram](https://t.me/leowindmeliodas)
 
-## Thông tin thêm
+## More information
 - 📫 Liên hệ: [@gmail.com]
 - 😄 Hobbies: [Reading books, Playing games, Watching movies, Surfing social networks, Traveling, Going out,...]
 
