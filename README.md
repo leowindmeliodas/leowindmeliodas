@@ -1,19 +1,16 @@
-# About me!
+# Hello, I'm [Leo Wind Meliodas]
 
+## About me!
 - 👋 Hi there. I'm Leo Wind Meliodas
 - 🧡 I like code and fix bug
-
-# Xin chào, Tôi là [Họ và tên của bạn]
-
-## Về tôi
-Nerd đam mê mã nguồn mở, chủ yếu là ngôn ngữ [Ngôn ngữ lập trình yêu thích của bạn]. Yêu thích làm việc trên các dự án thú vị và sáng tạo.
+- 😚 Yêu thích làm việc trên các dự án thú vị và sáng tạo.
 
 ## Kỹ năng và Ngôn ngữ Lập trình
-- **Ngôn ngữ chính:** [Ngôn ngữ lập trình chính của bạn]
-- **Công cụ phát triển:** [Công cụ phát triển mà bạn sử dụng, ví dụ: Visual Studio Code, Sublime Text]
-- **Kỹ năng:** [Danh sách các kỹ năng của bạn, ví dụ: Phát triển Web, Máy học, Thiết kế giao diện người dùng]
+- **Main language:** [C#, Html, CSS, JS, Python]
+- **Development tools:** [Visua Studio, Visual Studio Code, Notepad++, Sublime Text]
+- **Skill:** [Web development, Windows forms app, Python tools]
 
-## Dự án Nổi bật
+## Outstanding project
 - [Dự án 1]: Mô tả ngắn về dự án, liên kết đến repository.
 - [Dự án 2]: Mô tả ngắn về dự án, liên kết đến repository.
 
